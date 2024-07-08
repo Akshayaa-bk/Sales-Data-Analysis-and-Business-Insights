@@ -1,6 +1,9 @@
 # Sales-Data-Analysis-and-Business-Insights
 This project encompasses data analysis and insights derived from the integration of MySQL and Apache Spark. The project is organized into two folders: Codefiles and Documents.
 
+## Methodology
+![image](https://github.com/Akshayaa-bk/Sales-Data-Analysis-and-Business-Insights/assets/116330039/2aa88e4f-7078-4acd-95b9-31a01c981614)
+
 ## Setup and Execution
 ### MySQL Setup:
 
